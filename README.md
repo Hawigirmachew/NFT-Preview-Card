@@ -24,11 +24,19 @@ NFT PREVIEW CARD COMPONENT
 
 ### Screenshot
 
-!
+Mobile view
+
+![mobile-view](https://user-images.githubusercontent.com/88828065/190515700-479697f3-b1bc-4954-9cf2-c81d6c67f6e4.PNG)
+
+
+Desktop view
+
+![desktop-view](https://user-images.githubusercontent.com/88828065/190515751-cd119606-99cd-48b4-97e1-5a9310edd2c6.PNG)
+
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/responsive-page-using-css-flexbox-VHZ1h80gKU)
 - Live Site URL: [Live site](https://dancing-genie-b8ac0a.netlify.app/)
 
 ## My process
